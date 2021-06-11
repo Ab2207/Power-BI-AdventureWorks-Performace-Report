@@ -1,4 +1,4 @@
-# Power-BI-AdventureWorks-Performace-Report
+# Report Details with Published Link
 
 The data consists of multiple tables such as Customers, Sales, Products, Budget, Regions, and Calendar. Report shows the drill down of the AdventureWorks' performance in terms of sales for the year 2016. 
 
